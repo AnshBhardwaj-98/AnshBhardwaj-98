@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Studying Computer science
+Aspiring AI/ML engineer and web developer currently studying computer science. Skilled in machine learning, data analysis, software development, and web technologies. Proficient in Python, C++, and modern web frameworks. Passionate about building intelligent and scalable solutions while continuously learning and innovating.
 
 
 ## 🌐 Socials:
