@@ -3,7 +3,8 @@ Yo, I’m Ansh — I build shit that actually works.
 AI, ML, full-stack, whatever sparks my curiosity — I dive in, break things, fix them, and make something cool out of it. I love experimenting with models, automating boring stuff, and crafting clean, scalable apps just because I can.
 
 I learn fast, code faster, and if you don’t vibe with my work… well, that’s a you problem.
-If you don’t like it, go fuck yourself.
+
+If you don’t like it, go **fuck yourself**.
 
 
 ## 🌐 Socials:
