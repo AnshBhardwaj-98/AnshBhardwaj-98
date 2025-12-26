@@ -4,8 +4,6 @@ AI, ML, full-stack, whatever sparks my curiosity — I dive in, break things, fi
 
 I learn fast, code faster, and if you don’t vibe with my work… well, that’s a you problem.
 
-If you don’t like it, go **fuck yourself**.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itsanshbhardwaj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshbhardwaj001/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshbhardwaj8210682@gmail.com) 
